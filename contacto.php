@@ -12,6 +12,7 @@
 
 	<!-- ********** FIN  inicio script, link, y meta   ************** -->
 
+
 </head>
 <body>
 
